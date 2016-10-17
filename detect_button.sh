@@ -47,5 +47,6 @@ do
   # Der aktuelle Wert wird der alte Wert für den nächsten Durchlauf
   previous1=$pin1
 done
+//
 
 
